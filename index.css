@@ -1,0 +1,11 @@
+/* banner 1 */
+.banner1{
+    position: absolute;
+    width: 900px;
+    height: 280px;
+    left: calc(50% - 900px/2);
+    top: calc(50% - 280px/2);
+
+    background: linear-gradient(178.17deg, rgba(255, 255, 255, 0) 18.72%, #4DB3B3 98.09%), url(imagens/banner.png);
+    filter: blur(4px);
+}
