@@ -1,3 +1,22 @@
+/* homepage */
+.container{
+    position: relative;
+    width: 900px;
+    height: 1500px;
+    background: #FFFFFF;
+    margin: auto;
+}
+
+/* Banner */
+.banner{
+    position: absolute;
+    width: 900px;
+    height: 280px;
+    left: 0px;
+    top: 0px;
+    background: linear-gradient(0deg, #555555, #555555), linear-gradient(180deg, #FFFFFF 0%, rgba(255, 255, 255, 0) 100%);
+}
+
 /* banner 1 */
 .banner1{
     position: absolute;
@@ -5,7 +24,50 @@
     height: 280px;
     left: calc(50% - 900px/2);
     top: calc(50% - 280px/2);
-
     background: linear-gradient(178.17deg, rgba(255, 255, 255, 0) 18.72%, #4DB3B3 98.09%), url(imagens/banner.png);
     filter: blur(4px);
+}
+
+/* Frame Contatos */
+.framecontatos{
+    position: absolute;
+    width: 307px;
+    height: 206px;
+    left: calc(50% - 307px/2 + 267.5px);
+    top: calc(50% - 206px/2);
+}
+
+
+.contato {
+    font-family: Noto Sans;
+    src: url('font/NotoSans-Regular.ttf');
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 35px;
+    color: #FFFFFF;
+}
+
+.icomail{
+    width: 35px;
+    height: 35px;
+    padding-right: 5px;
+}
+.icocurriculo{
+    width: 27px;
+    height: 35px;
+    padding-left: 4px;
+    padding-right: 5px;
+}
+.email, .github, .Curriculo{
+    display: flex;
+    align-items: center;
+    font-family: Noto Sans;
+    src: url('font/NotoSans-Regular.ttf');
+    font-style: normal;
+    /* font-weight: bold; */
+    font-size: 14px;
+    line-height: 19px;
+    color: #FFFFFF;
+    padding-bottom: 15px;
 }
