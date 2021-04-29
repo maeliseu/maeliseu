@@ -142,3 +142,13 @@ article {
     line-height: 65px;
     color: #B37E5F;
 }
+
+/* rodape */
+footer{
+    /* position: absolute; */
+    width: 900px;
+    height: 260px;
+    /* left: 0px;
+    top: 1246px; */
+    background: #4DB3B3;
+}
