@@ -1,3 +1,7 @@
+body{
+    background-color: #A5A2A1;
+}
+
 /* homepage */
 .container{
     position: relative;
@@ -70,4 +74,71 @@
     line-height: 19px;
     color: #FFFFFF;
     padding-bottom: 15px;
+}
+
+article {
+    padding-top: 355px;
+}
+
+.art{
+    /* position: relative; */
+    width: 827px;
+    height: 202.53px;
+    /* left: 29px;
+    top: 355.47px; */
+    /* padding-top: 15px; */
+    border: 1px solid #C4D7D1;
+    box-sizing: border-box;
+    margin-inline: auto;
+    margin-bottom: 50px;
+}
+
+.arttitulo{
+    /* position: absolute; */
+    float: left;
+    /* width: 185px; */
+    height: 137.6px;
+    /* left: 10px;
+    top: -125px; */
+    margin-top: -285px;
+    margin-left: 30px;
+    font-family: Noto Sans;
+    src: url('font/NotoSans-Regular.ttf');
+    font-style: normal;
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 65px;
+    color: #B37E5F;
+}
+
+.artprojeto{
+    /* position: relative; */
+    width: 827px;
+    height: 331px;
+    /* left: 29px;
+    top: 355.47px; */
+    /* padding-top: 15px; */
+    border: 1px solid #C4D7D1;
+    box-sizing: border-box;
+    margin-inline: auto;
+    margin-bottom: 50px;
+}
+
+
+.arttituloprojeto{
+    /* position: absolute; */
+    float: left;
+    /* width: 185px; */
+    height: 137.6px;
+    /* left: 10px;
+    top: -125px; */
+    margin-top: -414px;
+    margin-left: 30px;
+    font-family: Noto Sans;
+    src: url('font/NotoSans-Regular.ttf');
+    font-style: normal;
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 65px;
+    color: #B37E5F;
 }
