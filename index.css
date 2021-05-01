@@ -208,6 +208,66 @@ article {
     color: #B37E5F;
 }
 
+
+.artcv{
+    /* position: relative; */
+    width: 827px;
+    height: 857px;
+    /* left: 29px;
+    top: 355.47px; */
+    /* padding-top: 15px; */
+    border: 1px solid #C4D7D1;
+    box-sizing: border-box;
+    margin-inline: auto;
+    margin-bottom: 50px;
+    padding-top: 45px;
+    padding-left: 25px;
+
+
+}
+.artcv p {
+    font-family: Noto Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    color: #2E6B6B;
+    margin: 0;
+}
+.artcv h4 {
+    font-family: Noto Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 22px;
+    color: #2E6B6B;
+    margin: 0;
+}
+
+.artcv br {
+    line-height: 10px;
+}
+
+.arttitulocv{
+    /* position: absolute; */
+    float: left;
+    /* width: 185px; */
+    height: 137.6px;
+    /* left: 10px;
+    top: -125px; */
+    margin-top: -938px;
+    margin-left: 30px;
+    font-family: Noto Sans;
+    src: url('font/NotoSans-Regular.ttf');
+    font-style: normal;
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 65px;
+    color: #B37E5F;
+}
+
+
+
 ul.a {
     float:left;
     list-style-type: none;
