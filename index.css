@@ -244,6 +244,16 @@ article {
     margin: 0;
 }
 
+.artcv h5 {
+    font-family: Noto Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 10px;
+    line-height: 22px;
+    color: #2E6B6B;
+    margin: 0;
+}
+
 .artcv br {
     line-height: 10px;
 }
@@ -387,6 +397,7 @@ footer{
 }
 
 .botao{
+    /* position: absolute; */
     width: 200px;
     height: 47px;
     background: #4DB3B3;
@@ -403,6 +414,7 @@ footer{
     color: #FFFFFF;
     padding-left: 32px;
     margin-top: 32px;
+    /* bottom: 322px; */
     
 }
 
