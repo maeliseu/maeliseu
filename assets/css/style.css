@@ -1454,10 +1454,10 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #0078ff;
+  border: 1px solid #4DB3B3;
 }
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #0078ff;
+  background-color: #4DB3B3;
 }
 .portfolio-details .portfolio-info {
   padding: 30px;
