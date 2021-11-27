@@ -1489,4 +1489,6 @@ section {
 }
 .portfolio-details .portfolio-description p {
   padding: 0;
+  text-indent:30px;
+  text-align:justify;
 }
