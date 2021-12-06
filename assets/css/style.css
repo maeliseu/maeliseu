@@ -1411,6 +1411,12 @@ section {
   font-size: 1.1rem;
 }
 
+.about .title-e a {
+  
+  color: #1e1e1e;
+  
+}
+
 .icocurriculo{
   width: 27px;
   /* height: 35px; */
@@ -1492,3 +1498,4 @@ section {
   text-indent:30px;
   text-align:justify;
 }
+
